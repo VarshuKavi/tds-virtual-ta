@@ -1,0 +1,12 @@
+[
+  {
+    "week": 1,
+    "topic": "Introduction to Linux",
+    "content": "This week covers basics of shell, navigation, pwd, ls, etc."
+  },
+  {
+    "week": 2,
+    "topic": "Scripting Basics",
+    "content": "You’ll learn variables, echo, read, and basic if conditions."
+  }
+]
